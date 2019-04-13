@@ -4,4 +4,3 @@ If you don't already have an SSH key, you must generate a new SSH key. If you're
 
 If you don't want to reenter your passphrase every time you use your SSH key, you can add your key to the SSH agent, which manages your SSH keys and remembers your passphrase.
 
-If you are stars.
